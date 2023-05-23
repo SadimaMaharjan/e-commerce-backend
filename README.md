@@ -65,4 +65,4 @@ http://localhost:3001/api/tags/:id
 
 The following video shows the functionality of this application:
 
-[Walkthrough Video Link](./assets/images/)
+[Walkthrough Video Link](https://drive.google.com/file/d/18p3xdYmUXcP095scrKLEBlMj3upCUFjU/view?usp=sharing)
